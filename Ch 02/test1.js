@@ -9,7 +9,7 @@ console.log("문자열입니다. %s", "안녕");
 // 속성은 "key : value" 형태로 되어있습니다.
 var person = {
   name : "백엔드 개발자",
-  age : 27
+  age : 28
 };
 
 // console이라는 전역 객체는 nodejs를 실행할 수 있는 자바스크립트 코드에서 언제 어디서든 실행할 수 있습니다.
